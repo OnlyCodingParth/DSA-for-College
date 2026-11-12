@@ -61,6 +61,10 @@ int main()
 }
 
 /*
+
+What is the Warshall's Algorithm?
+Warshall's Algorithm is a graph algorithm used to compute the transitive closure of a directed graph represented by an adjacency matrix. The transitive closure of a graph indicates whether there is a path between every pair of vertices. The algorithm iteratively updates the adjacency matrix to reflect the reachability of vertices through intermediate vertices.
+
 Algorithm:
 1. Start the program.
 2. Read the number of vertices.
